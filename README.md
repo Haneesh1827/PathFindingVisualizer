@@ -1,4 +1,4 @@
-# PathFinding Visualizer
+# PathFinding Visualize
 ## Algorithms Implemented
 - Breadth First Search(BFS)
 - Dijkstra's Algorithm
